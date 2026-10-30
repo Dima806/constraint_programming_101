@@ -1,0 +1,26 @@
+[
+  {
+    "size": 3,
+    "status": "OPTIMAL",
+    "wall_time": 0.0037951530000000003,
+    "makespan": 17
+  },
+  {
+    "size": 5,
+    "status": "OPTIMAL",
+    "wall_time": 0.005168242,
+    "makespan": 27
+  },
+  {
+    "size": 8,
+    "status": "OPTIMAL",
+    "wall_time": 0.009265038,
+    "makespan": 39
+  },
+  {
+    "size": 12,
+    "status": "OPTIMAL",
+    "wall_time": 0.031306654,
+    "makespan": 58
+  }
+]

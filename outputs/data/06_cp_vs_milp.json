@@ -1,0 +1,20 @@
+[
+  {
+    "problem": "bin_packing",
+    "cp_status": "OPTIMAL",
+    "cp_objective": 3.0,
+    "cp_time": 0.008447088,
+    "milp_status": "Optimal",
+    "milp_objective": 3.0,
+    "milp_time": 0.012450107999939064
+  },
+  {
+    "problem": "timetabling",
+    "cp_status": "OPTIMAL",
+    "cp_objective": 0.0,
+    "cp_time": 0.0019646240000000003,
+    "milp_status": "Optimal",
+    "milp_objective": 0.0,
+    "milp_time": 0.0044379759997354995
+  }
+]

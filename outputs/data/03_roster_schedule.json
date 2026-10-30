@@ -1,0 +1,67 @@
+{
+  "days": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "schedule": {
+    "nurse 0": [
+      "night",
+      "off",
+      "night",
+      "night",
+      "night",
+      "night",
+      "off"
+    ],
+    "nurse 1": [
+      "evening",
+      "night",
+      "evening",
+      "evening",
+      "off",
+      "off",
+      "night"
+    ],
+    "nurse 2": [
+      "morning",
+      "evening",
+      "off",
+      "morning",
+      "off",
+      "evening",
+      "evening"
+    ],
+    "nurse 3": [
+      "off",
+      "morning",
+      "morning",
+      "off",
+      "evening",
+      "morning",
+      "morning"
+    ],
+    "nurse 4": [
+      "off",
+      "off",
+      "off",
+      "off",
+      "off",
+      "off",
+      "off"
+    ],
+    "nurse 5": [
+      "off",
+      "off",
+      "off",
+      "off",
+      "morning",
+      "off",
+      "off"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+# Problem sizes, solver time limits, and seeds.
+# Every solve in the project is bounded by an explicit CP-SAT time limit so the
+# notebooks stay well under the 5-minute budget on a 2-CPU Codespace.
+
+# CP-SAT solver defaults
+time_limit_seconds: 10.0   # hard cap on every solve
+num_workers: 2             # matches the 2-CPU Codespace
+random_seed: 42            # reproducible search
+
+# Sudoku
+sudoku_box: 3              # box side length (3 -> standard 9x9 board)
+
+# Nurse rostering (used by the demo instances / Streamlit app defaults)
+roster_num_nurses: 6
+roster_num_days: 7
+roster_min_days_off: 2
+
+# Scaling study
+scaling_time_limit_seconds: 5.0

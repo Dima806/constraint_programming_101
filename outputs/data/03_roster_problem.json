@@ -1,0 +1,23 @@
+{
+  "num_nurses": 6,
+  "num_days": 7,
+  "shifts": [
+    "morning",
+    "evening",
+    "night"
+  ],
+  "demand": [
+    1,
+    1,
+    1
+  ],
+  "min_days_off": 2,
+  "senior_nurses": [
+    0,
+    1
+  ],
+  "max_shifts_per_nurse": null,
+  "no_back_to_back": true,
+  "night_requires_senior": true,
+  "preferences": []
+}
